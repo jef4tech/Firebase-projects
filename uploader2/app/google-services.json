@@ -1,0 +1,628 @@
+{
+  "project_info": {
+    "project_number": "885065603921",
+    "firebase_url": "https://jef2tech.firebaseio.com",
+    "project_id": "jef2tech",
+    "storage_bucket": "jef2tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:b18451ba92a2de95",
+        "android_client_info": {
+          "package_name": "c.images"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-d9jq44lfm57b6si5miumticsmrbg8urk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.images",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:640eb64b78cd798b",
+        "android_client_info": {
+          "package_name": "com.google.ads.rewardedvideoexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-l3d945ol3m5c55teo53o0di67gldl6f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.ads.rewardedvideoexample",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-guppe3j1mp5b0hhlvl7sl01q9l2i811l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.firebasestorage",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:0d9dfb7015a5c5c9",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.admobexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-uovn13645eek8klvthalfhpdd369udr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.admobexample",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7423464429819498~7574115766"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:42111a1e655e3334",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.avemaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-a7dcu9gmustj17lpcsr7426kqkc1m68f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.avemaria",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:803abdb8190e2127",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.dream11master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-bnmu9eg1e2uggebdqive4chihgs7pi4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.dream11master",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:27ae54e65380800c",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.elishae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-ij8asiekfkt595vuj8mq90ls5el9am5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.elishae",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:5f3ca4536155349c",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.hackspedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-ks0t6njqjdd6qne0at0vld254elj9mim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.hackspedia",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:077da33450cdb993",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.liveforjesus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-ftbei7jh0dtemcvqqgpno71eho4fjpsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.liveforjesus",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:0fb7017d218aa972",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-ou66n6vto8b3idpj74apk8loqvm7elv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.myapplication",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:9c4f95eda211faa7",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-84qlg17gs5pucoavojdv4k3gnv4tebnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.upload",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:0f7c56c3fe2eabf6",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-58jqtkja8fkuop96brqp8se855j6ms1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.uploader",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:c69c85fc7fc07319",
+        "android_client_info": {
+          "package_name": "hackspedia.com.example.home.jef.uploader1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-etlo1np1f8tgiekktupscm5oattsg8t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackspedia.com.example.home.jef.uploader1",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885065603921:android:de14b1b986f1b2ea",
+        "android_client_info": {
+          "package_name": "jef.home.example.com.hackspedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885065603921-cjkk0rhvl69jr89oq6mv1macbhs46s6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jef.home.example.com.hackspedia",
+            "certificate_hash": "7bb164eedda09ec5f3e01957feb0ef19dedc823b"
+          }
+        },
+        {
+          "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_BvCBhiM263D9jpsm5dI159Or8pmhv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885065603921-1t4mtc8lnf5npf2qf8aoru27h9c3a86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
