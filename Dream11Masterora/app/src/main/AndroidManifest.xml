@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hackspedia.com.example.home.jef.dream11master">
+    [START modify_app_permissions] -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- [END modify_app_permissions] -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+             [SNIPPET add_activity_config_changes]
+            Include the AdActivity configChanges and theme.
+            [START add_activity_config_changes]
+        -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <!-- [END add_activity_config_changes] -->
+        <activity android:name=".cricket" />
+        <activity android:name=".football" />
+        <activity android:name=".skill" />
+        <activity android:name=".Main2Activity" />
+        <activity
+            android:name=".Main3Activity"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main4Activity"
+            android:label="@string/title_activity_main4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main5Activity"
+            android:label="@string/title_activity_main5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main6Activity"
+            android:label="@string/title_activity_main6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main7Activity"
+            android:label="@string/title_activity_main7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main8Activity"
+            android:label="@string/title_activity_main8"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
